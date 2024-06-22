@@ -9,7 +9,7 @@
 
 > A **quantidade de fatores** que podemos ter em uma análise é justamente limitada à mesma **quantidade de variáveis** que possuímos em determinado *banco de dados*.
 
-> Variáveis do tipo catégorico (strings) não serão utilizados no tratamento de dados por PCA. Apenas variáveis numéricas poderão ser utilizadas.
+> Variáveis do tipo catégorico (strings) não serão utilizados no tratamento de dados por PCA. Apenas variáveis numéricas (int, float) poderão ser utilizadas.
 
 #### **Aplicações do PCA**
 
